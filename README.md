@@ -1,6 +1,6 @@
 ## Boas Vindas Ao Meu Perfil 🚸
 
-Meu nome é Marcos
+Meu nome é Marcos ⭐
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
