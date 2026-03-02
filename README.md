@@ -9,7 +9,5 @@ Meu nome é Marcos ⭐
 
 00001164633879sp@al.educacao.sp.gov.br
 
-@iceage801
 
-
-![](https://media.tenor.com/e_hKeuzbRVYAAAAM/enaldinho.gif)
+![]((https://media1.tenor.com/m/swGklh-cW8EAAAAC/skeletano-fall.gif))
